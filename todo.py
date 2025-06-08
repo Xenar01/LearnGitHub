@@ -20,3 +20,4 @@ if __name__ == "__main__":
         add(" ".join(sys.argv[2:]))
     elif sys.argv[1] == "list":
         list_tasks()
+delete(index)
